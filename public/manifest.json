@@ -1,0 +1,17 @@
+{
+  "short_name": "TalkFlow",
+  "name": "TalkFlow Global Messenger",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/shapes/svg?seed=talkflow-icon",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#020617",
+  "theme_color": "#4f46e5",
+  "display": "standalone",
+  "orientation": "portrait",
+  "description": "Cloud-based real-time global chat with multi-device sync, sequence numbering, and on-demand translation."
+}
